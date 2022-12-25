@@ -1,0 +1,49 @@
+0 	돈	에트로이드에서 사용되고 있는 화폐	gold.bmp		
+1 	밀라초	혼돈의 숲에서 얻을 수 있는 약초.	milacho.bmp		
+2 	마법사의 일기	알 수 없는 어느 한 마법사가 써낸 일기	diary.bmp		
+3 	가중나무	가죽나무의 한 종류	testitem.bmp		
+4 	굴조개	정력에 매우 큰 도움이 된다는 식용 조개	testitem.bmp		
+5 	콩	일반적인 콩으로 인체에 오는 여러 가지 병을 치료하는데 쓰인다.	testitem.bmp		
+6 	도라지	테스트	testitem.bmp		
+7 	다시마	테스트	testitem.bmp		
+8 	빨간달걀	에트로이드에서 볼 수 있는 신기한 달걀.	testitem.bmp		
+9 	달래	테스트	testitem.bmp		
+10 	달팽이	흔히 볼 수 있는 달팽이	testitem.bmp		
+11 	닭고기	테스트	testitem.bmp		
+12 	마늘	테스트	testitem.bmp		
+13 	메뚜기	흔히 볼 수 있는 메뚜기. 구워 먹으면 매우 맛있다.	testitem.bmp		
+14 	명태	테스트	testitem.bmp		
+15 	모과	테스트	testitem.bmp		
+16 	미꾸라지	테스트	testitem.bmp		
+17 	버섯	테스트	testitem.bmp		
+18 	독버섯	테스트	testitem.bmp		
+19 	복숭아	테스트	testitem.bmp		
+20 	소라	테스트	testitem.bmp		
+21 	수박	테스트	testitem.bmp		
+22 	소금	테스트	testitem.bmp		
+23 	성게	테스트	testitem.bmp		
+24 	석류	여성 마법사들이 주로 먹는다는 음식이다. 피부에 많은 도움이 된다고 한다.	testitem.bmp		
+25 	쌀	에트로이드 사람들의 주된 요리 음식	testitem.bmp		
+26 	앵두	테스트	testitem.bmp		
+27 	양배추	테스트	testitem.bmp		
+28 	양파	테스트	testitem.bmp		
+29 	염소고기	테스트	testitem.bmp		
+30 	오리고기	테스트	testitem.bmp		
+31 	오가피	테스트	testitem.bmp		
+32 	오미자	테스트	testitem.bmp		
+33 	오이	테스트	testitem.bmp		
+34 	오징어	테스트	testitem.bmp		
+35 	옥수수	테스트	testitem.bmp		
+36 	완두	테스트	testitem.bmp		
+37 	요구르트	테스트	testitem.bmp		
+38 	우렁이	테스트	testitem.bmp		
+39 	우유	테스트	testitem.bmp		
+40 	참께	테스트	testitem.bmp		
+41 	포도	테스트	testitem.bmp		
+42 	표고버섯	테스트	testitem.bmp		
+43 	호박	테스트	testitem.bmp		
+44 	호도	매우 맛있는 음식.	testitem.bmp		
+45 	후추	테스트	testitem.bmp		
+46 	사랑의 열매	이 열매를 먹으면 사랑하는 사람을 얻을 수 있다고 한다.	testitem.bmp		
+47 	생명의 약	마법의 힘으로 체력을 보충 해준다고 한다.	health_potion.bmp		
+48 	마법의 약	마법의 힘으로 마력을 보충 해준다고 한다.	mana_potion.bmp		

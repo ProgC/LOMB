@@ -1,0 +1,11 @@
+pupudestory 0
+prologue 1
+stage1key 0
+stage2key 0
+stage3key 0
+stage4key 0
+stage5key 0
+jiniatalk 0
+fruitoflove 0
+fishcount 0
+dun2door 0

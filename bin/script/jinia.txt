@@ -1,0 +1,19 @@
+if jiniatalk == 0
+print "지니아 : 카일 오빠~"
+print "지니아 : 웬일이야?"
+print "지니아 : 아~ 아까 아르티어스가 찾고 있던데"
+print "지니아 : 아직 못만났어...?"
+print "지니아 : 응...?"
+goto end
+else
+if jiniatalk == 1
+print "지니아 : 응...?"
+print "지니아 : 카일 오빠... 안색이 안좋아 보이네"
+print "지니아 : 무슨 일이라도 있는거야?"
+print "지니아 : 아르티어스는 도대체 어디에 있는건지..."
+print "지니아 : 응...? 아니야 아무것도"
+goto end
+else
+
+label end
+

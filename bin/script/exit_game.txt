@@ -1,0 +1,6 @@
+fadeoutgray
+print "카일 : 이..."
+print "카일 : 이렇게 끝낼 수 없어..."
+print "카일 : ..."
+exitgame
+

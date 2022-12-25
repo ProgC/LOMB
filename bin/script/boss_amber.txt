@@ -1,0 +1,25 @@
+if stage1key == 0 
+musicon "GanondorfBattle"
+print "호롱불 : 웬놈이냐!!"
+print "호롱불 : 사랑의 열매는 더 이상 필요하지 않아!"
+print "호롱불 : 너의 일방적인 욕심으로 사랑을 얻는건 더 이상 필요 하지 않단 말이야!"
+func setvariable stage1key 1
+goto end
+else
+musicoff "GanondorfBattle"
+print "호롱불 : 윽..."
+print "호롱불 : 으윽!!"
+print "호롱불 : 이... 이렇게 쉽게..."
+print "호롱불 : 이렇게 쉽게 네 녀석에게 당할 줄이야..."
+print "호롱불 : ... 사랑의 열매를 지키지 못한 내가 한스럽구나..."
+print "호롱불 : 하지만... 네 녀석도 알아야 해... 네 녀석이 얼마나 후회할 짓을 했는지..."
+print "호롱불 : 너는... 너 따위는... 사랑이 뭔지 몰라... 사랑은 일방적으로"
+print "호롱불 : 이루어질 수 없는거야... 사랑의 열매로 사랑을 얻을 순 있지만 그건"
+print "호롱불 : 진실된 사랑이 아니란 말이다!"
+func setvariable fruitoflove 1
+// fadeout
+map "stage2"
+musicon "z64gerudo"
+// fadein
+label end
+

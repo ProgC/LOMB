@@ -1,0 +1,6 @@
+print "카일 : 너무 어지럽다. 졸려..."
+fadeout
+map "stage2"
+fadein
+musicon "z64gerudo"
+

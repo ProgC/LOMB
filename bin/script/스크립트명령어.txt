@@ -1,0 +1,11 @@
+print 글자 출력
+Narration 나레이션
+map 맵 로드
+musicon
+musicoff
+goto label label로 이동
+if
+func -
+함수 이름에 따라서 파싱 방법을 달리함
+ -- checkmob 몹 번호, 스테이지x, 스테이지y, 변수
+ -- setvariable 변수이름, 값

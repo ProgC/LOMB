@@ -1,0 +1,12 @@
+Narration "동굴 입구에 차가운 바람이 새어나오고 있다."
+Narration "동굴의 입구를 두고 2개의 세상이 공존해 있는것 같다."
+if dun2door == 1
+print "카일 : 후..."
+print "카일 : 그래... 마을 사람들을 구하는건 이 길 밖에 없다!"
+map "stage3"
+musicon "Ganondorf"
+goto end
+else
+print "카일 : 뭔가 이상한 동굴이다."
+label end
+
