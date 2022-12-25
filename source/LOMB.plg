@@ -1,0 +1,125 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: LOMB - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\문기영\LOCALS~1\Temp\RSP3D.tmp" with contents
+[
+/nologo /MD /W3 /GX /Zi /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Release/" /Fp"Release/LOMB.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Works\Project\Lomb\Game.cpp"
+]
+Creating command line "cl.exe @"C:\DOCUME~1\문기영\LOCALS~1\Temp\RSP3D.tmp"" 
+Creating temporary file "C:\DOCUME~1\문기영\LOCALS~1\Temp\RSP3F.tmp" with contents
+[
+sdl.lib sdlmain.lib SDL_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:windows /incremental:no /pdb:"Release/LOMB_R.pdb" /debug /machine:I386 /out:"bin/LOMB_R.exe" 
+.\Release\AnimationFrame.obj
+.\Release\Collision.obj
+.\Release\CreticalSection.obj
+.\Release\Game.obj
+.\Release\GameItem.obj
+.\Release\GameMenu.obj
+.\Release\GameMonster.obj
+.\Release\GameUI.obj
+.\Release\Inventory.obj
+.\Release\IScene.obj
+.\Release\LevelUpDB.obj
+.\Release\main.obj
+.\Release\Map.obj
+.\Release\MusicPack.obj
+.\Release\SceneEffect.obj
+.\Release\Script.obj
+.\Release\Skill.obj
+.\Release\SoundPack.obj
+.\Release\Sprite.obj
+.\Release\SpritePack.obj
+.\Release\Stage.obj
+.\Release\TileProperty.obj
+.\Release\Boss_Amber.obj
+.\Release\BossAmberAction.obj
+.\Release\PinkPig.obj
+.\Release\PinkPigAction.obj
+.\Release\Bullet.obj
+.\Release\Bullet_Amber.obj
+.\Release\Bullet_MagicBall.obj
+.\Release\Bullet_Pink_Pig.obj
+.\Release\BulletFactory.obj
+.\Release\BluePig.obj
+.\Release\BluePigAction.obj
+.\Release\IEntity.obj
+.\Release\Item.obj
+.\Release\Kail.obj
+.\Release\MonAi.obj
+.\Release\Monster.obj
+.\Release\MonsterAI.obj
+.\Release\MoveableEntity.obj
+.\Release\Npc.obj
+.\Release\Han.obj
+.\Release\ItemData.obj
+.\Release\MobData.obj
+]
+Creating command line "link.exe @"C:\DOCUME~1\문기영\LOCALS~1\Temp\RSP3F.tmp""
+<h3>Output Window</h3>
+Compiling...
+Game.cpp
+Linking...
+Creating temporary file "C:\DOCUME~1\문기영\LOCALS~1\Temp\RSP42.tmp" with contents
+[
+/nologo /o"Release/LOMB.bsc" 
+.\Release\AnimationFrame.sbr
+.\Release\Collision.sbr
+.\Release\CreticalSection.sbr
+.\Release\Game.sbr
+.\Release\GameItem.sbr
+.\Release\GameMenu.sbr
+.\Release\GameMonster.sbr
+.\Release\GameUI.sbr
+.\Release\Inventory.sbr
+.\Release\IScene.sbr
+.\Release\LevelUpDB.sbr
+.\Release\main.sbr
+.\Release\Map.sbr
+.\Release\MusicPack.sbr
+.\Release\SceneEffect.sbr
+.\Release\Script.sbr
+.\Release\Skill.sbr
+.\Release\SoundPack.sbr
+.\Release\Sprite.sbr
+.\Release\SpritePack.sbr
+.\Release\Stage.sbr
+.\Release\TileProperty.sbr
+.\Release\Boss_Amber.sbr
+.\Release\BossAmberAction.sbr
+.\Release\PinkPig.sbr
+.\Release\PinkPigAction.sbr
+.\Release\Bullet.sbr
+.\Release\Bullet_Amber.sbr
+.\Release\Bullet_MagicBall.sbr
+.\Release\Bullet_Pink_Pig.sbr
+.\Release\BulletFactory.sbr
+.\Release\BluePig.sbr
+.\Release\BluePigAction.sbr
+.\Release\IEntity.sbr
+.\Release\Item.sbr
+.\Release\Kail.sbr
+.\Release\MonAi.sbr
+.\Release\Monster.sbr
+.\Release\MonsterAI.sbr
+.\Release\MoveableEntity.sbr
+.\Release\Npc.sbr
+.\Release\Han.sbr
+.\Release\ItemData.sbr
+.\Release\MobData.sbr]
+Creating command line "bscmake.exe @"C:\DOCUME~1\문기영\LOCALS~1\Temp\RSP42.tmp""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+LOMB_R.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
